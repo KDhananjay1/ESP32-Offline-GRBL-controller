@@ -1,0 +1,8 @@
+*.zip
+*.bin
+*.elf
+*.log
+*.tmp
+*.bak
+.vscode/
+build/
