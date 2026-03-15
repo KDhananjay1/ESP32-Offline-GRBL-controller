@@ -1,0 +1,31 @@
+MAIN MENU
+ ├─ Control
+ │   ├─ Auto Home
+ │   ├─ Unlock
+ │   ├─ Move Axis
+ │   │   ├─ Step Size
+ │   │   │   ├─ 10mm
+ │   │   │   ├─ 1mm
+ │   │   │   └─ 0.1mm
+ │   │   ├─ X
+ │   │   ├─ Y
+ │   │   └─ Z
+ │   ├─ Set Zero
+ │   ├─ Go To Origin
+ │   └─ Status
+ │
+ ├─ SD Card
+ │   ├─ Refresh
+ │   ├─ File List
+ │   └─ Run File
+ │
+ ├─ Settings
+ │   ├─ Baud Rate
+ │   ├─ GRBL Mode
+ │   ├─ Buzzer
+ │   └─ Menu Memory
+ │
+ └─ WiFi
+     ├─ Enable
+     ├─ Upload File
+     └─ Web Control
