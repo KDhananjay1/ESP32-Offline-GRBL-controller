@@ -1,0 +1,16 @@
+          +-----------------------+
+          |        ESP32          |
+          |                       |
+Buttons → | GPIO inputs          |
+Encoder → | (optional)           |
+          |                       |
+I2C LCD → | SDA 21 / SCL 22      |
+          |                       |
+SD Card → | SPI (MISO/MOSI/SCK)  |
+          |                       |
+GRBL ←→   | UART2 (TX/RX)        |
+          |                       |
+Buzzer →  | GPIO output          |
+          |                       |
+WiFi →    | Web UI / File Upload |
+          +-----------------------+
