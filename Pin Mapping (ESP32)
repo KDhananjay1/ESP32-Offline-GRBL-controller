@@ -1,0 +1,15 @@
+| Function      | ESP32 Pin |
+| ------------- | --------- |
+| LCD SDA       | GPIO 21   |
+| LCD SCL       | GPIO 22   |
+| Button UP     | GPIO 32   |
+| Button DOWN   | GPIO 33   |
+| Button SELECT | GPIO 25   |
+| Button BACK   | GPIO 26   |
+| SD CS         | GPIO 5    |
+| SD MOSI       | GPIO 23   |
+| SD MISO       | GPIO 19   |
+| SD SCK        | GPIO 18   |
+| GRBL RX       | GPIO 16   |
+| GRBL TX       | GPIO 17   |
+| Buzzer        | GPIO 27   |
